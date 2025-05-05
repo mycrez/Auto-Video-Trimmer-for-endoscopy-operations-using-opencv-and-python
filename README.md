@@ -2,6 +2,8 @@
 
 Smart Endoscopy Video Trimmer using OpenCV
 
+for installation whatsapp me on 917775958623 or email at mycrez@gmail.com
+
 This Python-based tool automatically scans and processes endoscopy videos to extract only the meaningful clips—segments containing medical-grade visuals (e.g., stainless steel tools or active scenes)—while skipping blurry, black, or idle footage.
 
 Key Features
