@@ -1,0 +1,1 @@
+# Auto-Video-Trimmer-for-endoscopy-operations-using-opencv-and-python
